@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "44765044131",
+    "firebase_url": "https://screenset-default-rtdb.firebaseio.com",
+    "project_id": "screenset",
+    "storage_bucket": "screenset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44765044131:android:e1216a714682f030d28e16",
+        "android_client_info": {
+          "package_name": "com.tnoffapps.screensetadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44765044131-tlf6purhhp0fnh4cpcoptge0dr5rieeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOelOmbthT10Z-3SuE1FWwj5lAAcKYDO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44765044131-tlf6purhhp0fnh4cpcoptge0dr5rieeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44765044131:android:232f20048f77e13dd28e16",
+        "android_client_info": {
+          "package_name": "com.tnoffapps.wallpapers1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44765044131-tlf6purhhp0fnh4cpcoptge0dr5rieeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOelOmbthT10Z-3SuE1FWwj5lAAcKYDO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44765044131-tlf6purhhp0fnh4cpcoptge0dr5rieeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

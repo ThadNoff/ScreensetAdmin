@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Screenset Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name ="deleteString">Disprove</string>
+    <string name="disprove">Disprove</string>
+    <string name="approve">Approve</string>
+</resources>
